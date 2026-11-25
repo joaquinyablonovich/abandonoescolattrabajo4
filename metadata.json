@@ -1,0 +1,6 @@
+{
+  "name": "SATED · Alerta Temprana de Desvinculación Escolar",
+  "description": "Sistema ministerial de predicción territorial del riesgo de abandono escolar por zona educativa en Argentina (provincia, departamento, sector y ámbito) basado en Random Forest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
